@@ -19,7 +19,7 @@ Cada repo trae:
 
 | Repo | Qué hace | Basado en |
 |---|---|---|
-| *Próximamente* | | |
+| [nino-colombia](https://github.com/Estado-X/nino-colombia) · [demo](https://estado-x.github.io/nino-colombia/) | Tablero de El Niño por municipio: lluvia, calor, embalses e incendios, con datos oficiales que se actualizan cada mañana | Inspirado en [osiris](https://github.com/simplifaisoul/osiris) de simplifaisoul (MIT) |
 
 ### Contacto
 - Sitio: [estadox.com](https://estadox.com)
@@ -44,7 +44,7 @@ Each repo includes:
 
 | Repo | What it does | Based on |
 |---|---|---|
-| *Coming soon* | | |
+| [nino-colombia](https://github.com/Estado-X/nino-colombia) · [demo](https://estado-x.github.io/nino-colombia/) | El Niño dashboard by municipality: rainfall, heat, reservoirs and fires, from official data that updates every morning | Inspired by [osiris](https://github.com/simplifaisoul/osiris) by simplifaisoul (MIT) |
 
 ### Contact
 - Website: [estadox.com](https://estadox.com)
