@@ -21,6 +21,7 @@ Cada repo trae:
 |---|---|---|
 | [nino-colombia](https://github.com/Estado-X/nino-colombia) · [demo](https://estado-x.github.io/nino-colombia/) | Tablero de El Niño por municipio: lluvia, calor, embalses e incendios, con datos oficiales que se actualizan cada mañana | Inspirado en [osiris](https://github.com/simplifaisoul/osiris) de simplifaisoul (MIT) |
 | [noticias-colombia](https://github.com/Estado-X/noticias-colombia) · [demo](https://estado-x.github.io/noticias-colombia/) | Skill de Claude que te arma tu portada de noticias de Colombia con tus temas y tu región, con el enlace a cada medio | Inspirado en [newsnow](https://github.com/ourongxing/newsnow) de ourongxing (MIT) |
+| [normas-colombia](https://github.com/Estado-X/normas-colombia) · [demo](https://estado-x.github.io/normas-colombia/) | Buscador de 1.354 artículos de la Constitución y cuatro normas más: escribes tu duda y te muestra el artículo exacto, citado y con enlace a la fuente oficial | Inspirado en [LawGlance](https://github.com/lawglance/lawglance) (Apache-2.0) |
 
 ### Contacto
 - Sitio: [estadox.com](https://estadox.com)
@@ -47,6 +48,7 @@ Each repo includes:
 |---|---|---|
 | [nino-colombia](https://github.com/Estado-X/nino-colombia) · [demo](https://estado-x.github.io/nino-colombia/) | El Niño dashboard by municipality: rainfall, heat, reservoirs and fires, from official data that updates every morning | Inspired by [osiris](https://github.com/simplifaisoul/osiris) by simplifaisoul (MIT) |
 | [noticias-colombia](https://github.com/Estado-X/noticias-colombia) · [demo](https://estado-x.github.io/noticias-colombia/) | Claude skill that builds your own Colombian news front page from your topics and region, linking to each outlet | Inspired by [newsnow](https://github.com/ourongxing/newsnow) by ourongxing (MIT) |
+| [normas-colombia](https://github.com/Estado-X/normas-colombia) · [demo](https://estado-x.github.io/normas-colombia/) | Search 1,354 articles of the Constitution and four other Colombian laws: ask in plain Spanish and get the exact article, cited and linked to the official source | Inspired by [LawGlance](https://github.com/lawglance/lawglance) (Apache-2.0) |
 
 ### Contact
 - Website: [estadox.com](https://estadox.com)
